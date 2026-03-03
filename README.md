@@ -16,6 +16,8 @@ Software Engineer · Build & Tooling · Architecture · Community
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
+**... and more**
+
 ---
 
 ## 📫 How to Reach Me
@@ -35,26 +37,26 @@ Software Engineer · Build & Tooling · Architecture · Community
 
 ## 📊 GitHub Stats
 
-<table>
+<table align="center">
   <tr>
-    <td colspan="2">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a4z&theme=transparent" alt="Profile Details" />
+    <td colspan="2" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a4z&theme=transparent" alt="Profile Details" width="100%" />
     </td>
   </tr>
   <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a4z&theme=transparent" alt="Repos Per Language" />
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a4z&theme=transparent" alt="Repos Per Language" width="100%" />
     </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=a4z&theme=transparent" alt="Most Commit Language" />
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=a4z&theme=transparent" alt="Most Commit Language" width="100%" />
     </td>
   </tr>
   <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=a4z&theme=transparent" alt="Stats" />
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=a4z&theme=transparent" alt="Stats" width="100%" />
     </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=a4z&theme=transparent&utcOffset=1" alt="Productive Time" />
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=a4z&theme=transparent&utcOffset=1" alt="Productive Time" width="100%" />
     </td>
   </tr>
 </table>
