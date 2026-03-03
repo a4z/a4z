@@ -35,10 +35,28 @@ Software Engineer · Build & Tooling · Architecture · Community
 
 ## 📊 GitHub Stats
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a4z&theme=transparent)
-![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a4z&theme=transparent)
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=a4z&theme=transparent)
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=a4z&theme=transparent)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=a4z&theme=transparent&utcOffset=1)
+<table>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a4z&theme=transparent" alt="Profile Details" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a4z&theme=transparent" alt="Repos Per Language" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=a4z&theme=transparent" alt="Most Commit Language" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=a4z&theme=transparent" alt="Stats" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=a4z&theme=transparent&utcOffset=1" alt="Productive Time" />
+    </td>
+  </tr>
+</table>
 
 ---
