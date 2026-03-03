@@ -1,10 +1,6 @@
-# Hi there, I'm Harald 👋
+# Hi, I'm Harald 👋
 
-Software Engineer · Build & Tooling · Architecture · Community
-
-![Available for Contracting](https://img.shields.io/badge/Available%20for%20Contracting-Stockholm%2C%20Sweden%20%7C%20Remote-FECC02?style=flat-square&labelColor=006AA7)
-
----
+**Software Engineer · Build & Tooling · Architecture · Community**
 
 ## 🛠️ Languages & Tools
 
@@ -18,8 +14,6 @@ Software Engineer · Build & Tooling · Architecture · Community
 
 **... and more**
 
----
-
 ## 📫 How to Reach Me
 
 - 🐙 GitHub: [@a4z](https://github.com/a4z)
@@ -27,13 +21,15 @@ Software Engineer · Build & Tooling · Architecture · Community
 - 🏠 Personal: [a4z.noexcept.dev](https://a4z.noexcept.dev)
 - 🏢 Company: [hands-development.se](https://hands-development.se)
 
----
+<p align="center">
+  <img src="./available-for-contracting.svg" alt="Available for Contracting" />
+</p>
 
 ## 🌐 Side Projects
 
 - 🔵 [swedencpp.se](https://swedencpp.se) — C++ info hub for the Swedish C++ community
 
-- 🔨 [buildid.dev](https://buildid.dev) — A service to give unique build IDs to your builds
+- 🔨 [buildid.dev](https://buildid.dev) — A service to give unique build IDs and layout numbers
 
 ## 📊 GitHub Stats
 
