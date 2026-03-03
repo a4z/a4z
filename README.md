@@ -35,6 +35,10 @@ Software Engineer · Build & Tooling · Architecture · Community
 
 ## 📊 GitHub Stats
 
-![a4z's GitHub Stats](https://github-readme-stats.vercel.app/api?username=a4z&show_icons=true&theme=default)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a4z&theme=transparent)
+![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a4z&theme=transparent)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=a4z&theme=transparent)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=a4z&theme=transparent)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=a4z&theme=transparent&utcOffset=1)
 
 ---
