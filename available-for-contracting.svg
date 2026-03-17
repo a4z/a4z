@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="28" role="img" aria-label="Available for Contracting: Stockholm, Sweden | Remote">
+  <title>Available for Contracting: Stockholm, Sweden | Remote</title>
+  <rect width="520" height="28" rx="3" fill="#006AA7"/>
+  <rect x="225" width="295" height="28" rx="3" fill="#FECC02"/>
+  <rect x="225" width="3" height="28" fill="#FECC02"/>
+  <g font-family="Verdana, DejaVu Sans, Arial, sans-serif" font-size="12" font-weight="700" text-rendering="geometricPrecision">
+    <text x="112.5" y="19" fill="#FECC02" text-anchor="middle">Available for Contracting</text>
+    <text x="372.5" y="19" fill="#006AA7" text-anchor="middle">Stockholm, Sweden | Remote</text>
+=======
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="50" role="img" aria-label="Available for Contracting: Stockholm, Sweden | Remote">
+  <title>Available for Contracting: Stockholm, Sweden | Remote</title>
+  <rect width="520" height="50" rx="3" fill="#006AA7"/>
+  <g font-family="Verdana, DejaVu Sans, Arial, sans-serif" font-size="12" font-weight="700" text-rendering="geometricPrecision">
+    <text x="260" y="18" fill="#FFFFFF" text-anchor="middle" font-size="13">Available for Contracting</text>
+    <text x="260" y="36" fill="#FECC02" text-anchor="middle" font-size="10">Stockholm, Sweden | Remote</text>
+>>>>>>> copilot/update-readme-for-harald
+  </g>
+</svg>
