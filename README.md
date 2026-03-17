@@ -21,7 +21,6 @@
 - 🏠 Personal: [a4z.noexcept.dev](https://a4z.noexcept.dev)
 - 🏢 Company: [hands-development.se](https://hands-development.se)
 
-
 ## 🌐 Side Projects
 
 - 🔵 [swedencpp.se](https://swedencpp.se) — C++ info hub for the Swedish C++ community
@@ -29,6 +28,12 @@
 - 🔨 [buildid.dev](https://buildid.dev) — A service to give unique build IDs and layout numbers
 
 - More at <https://a4z.noexcept.dev/about/>
+
+## 📋 Additional Info
+
+<p align="center">
+  <img src="available-for-contracting.svg" alt="Available for Contracting: Stockholm, Sweden | Remote" />
+</p>
 
 ## 📊 GitHub Stats
 
