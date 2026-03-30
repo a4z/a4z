@@ -32,7 +32,9 @@
 ## 📋 Additional Info
 
 <p align="center">
-  <img src="available-for-contracting.svg" alt="Available for Contracting: Stockholm, Sweden | Remote" />
+  <a href="https://hands-development.se">
+    <img src="available-for-contracting.svg" alt="Available for Contracting: Stockholm, Sweden | Remote" />
+  </a>
 </p>
 
 ## 📊 GitHub Stats
